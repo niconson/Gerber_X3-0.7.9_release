@@ -6,3 +6,11 @@
 Сборка в VS 2022, с++ , расширение qt vs tool версии 2.10 , 3.4.1 
 
 Поддерживаемые  ОС Windows 7 и выше.
+
+Gerber viewer and editor
+
+Required for building library qt 5.12.10
+
+Build in VS 2022, c++ , qt vs tool extension version 2.10 , 3.4.1
+
+Supported OS Windows 7 and above
