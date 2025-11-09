@@ -11,6 +11,8 @@
  ФОРУМ ПРОГРАММЫ:
  https://cnc3018.ru/threads/ggeasy-grber2gcode-frezerovka-pechatnyx-plat-na-chpu-zasvetka-lazerom-izuchaem-delimsja-opytom-i-dostizhenijami.2231/
 
+ исходники: https://github.com/rzheltov-ctrl/GERBER_X3_079_source
+
 
 Gerber viewer and editor
 
@@ -22,3 +24,5 @@ Supported OS Windows 7 and above
 
  Rutube leaarning example https://rutube.ru/video/693c69bfa10a9716b1bbb56b58717436/
  PROGRAM FORUM https://cnc3018.ru/threads/ggeasy-grber2gcode-frezerovka-pechatnyx-plat-na-chpu-zasvetka-lazerom-izuchaem-delimsja-opytom-i-dostizhenijami.2231/
+
+ source code : https://github.com/rzheltov-ctrl/GERBER_X3_079_source
