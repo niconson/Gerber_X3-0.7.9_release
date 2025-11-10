@@ -7,10 +7,7 @@
 
 Поддерживаемые  ОС Windows 7 и выше.
 
- Пример работы на rutube  https://rutube.ru/video/693c69bfa10a9716b1bbb56b58717436/
- ФОРУМ ПРОГРАММЫ:
- https://cnc3018.ru/threads/ggeasy-grber2gcode-frezerovka-pechatnyx-plat-na-chpu-zasvetka-lazerom-izuchaem-delimsja-opytom-i-dostizhenijami.2231/
-
+ Rutube leaarning example https://rutube.ru/video/693c69bfa10a9716b1bbb56b58717436/
  исходники: https://github.com/rzheltov-ctrl/GERBER_X3_079_source
 
 
@@ -23,6 +20,5 @@ Build in VS 2022, c++ , qt vs tool extension version 2.10 (for windows 7)  or 3.
 Supported OS Windows 7 and above
 
  Rutube leaarning example https://rutube.ru/video/693c69bfa10a9716b1bbb56b58717436/
- PROGRAM FORUM https://cnc3018.ru/threads/ggeasy-grber2gcode-frezerovka-pechatnyx-plat-na-chpu-zasvetka-lazerom-izuchaem-delimsja-opytom-i-dostizhenijami.2231/
-
+ 
  source code : https://github.com/rzheltov-ctrl/GERBER_X3_079_source
