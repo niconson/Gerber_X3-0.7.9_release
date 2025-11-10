@@ -7,7 +7,7 @@
 
 Поддерживаемые  ОС Windows 7 и выше.
 
- Rutube leaarning example https://rutube.ru/video/693c69bfa10a9716b1bbb56b58717436/
+ Rutube примеры обучения https://rutube.ru/video/693c69bfa10a9716b1bbb56b58717436/
  исходники: https://github.com/rzheltov-ctrl/GERBER_X3_079_source
 
 
