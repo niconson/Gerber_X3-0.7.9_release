@@ -1,5 +1,5 @@
 # Gerber_X3-0.7.9_release
-Просмотрщик и редактор Гербер-файлов, программа сделана для Схематор&Платформ https://github.com/niconson/FreePCB-2
+Просмотрщик,редактор Гербер-файлов,  создатель G-code - это программа сделана для Схематор&Платформ https://github.com/niconson/FreePCB-2
 
 Требуемая для сборки библиотека qt 5.12.10
 
@@ -12,7 +12,7 @@
  исходники: https://github.com/rzheltov-ctrl/GERBER_X3_079_source
 
 
-Gerber viewer and editor
+Gerber viewer and editor, g-code maker.Тhis program is made for Schemator&Platforms https://github.com/niconson/FreePCB-2
 
 Required for building library qt 5.12.10
 
